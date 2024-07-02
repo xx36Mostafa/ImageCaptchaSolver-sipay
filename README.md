@@ -3,7 +3,7 @@
 This repository contains a Python script that automates the process of solving image captchas and submitting phone numbers for registration on a specified website. The script leverages several libraries including `tls_client`, `BeautifulSoup`, `phonenumbers`, and more.
 ## Proxy
 This Script is using the ProxyScrap Because it is strong and fast.
-https://capmonster.cloud/
+(https://proxyscrape.com/products/premium/)
 ## Features
 
 - **Captcha Solver**: Downloads and solves image captchas.
